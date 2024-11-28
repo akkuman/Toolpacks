@@ -1,5 +1,5 @@
 ```mathematica
-375M └─┬ main
+374M └─┬ main
 180M   ├─┬ x86_64-Linux
  98M   │ ├── BUILD.log.txt
  60M   │ ├── BUILD.BIN.log.txt
@@ -7,7 +7,7 @@
 4.6M   │ ├── METADATA.AIO.yaml
 4.5M   │ ├── METADATA.AIO.toml
 4.5M   │ ├── METADATA.AIO.min.json
-1.2M   │ ├── METADATA.json
+1.3M   │ ├── METADATA.json
 908K   │ ├── DETAILED.md
 512K   │ ├── README.md
 196K   │ ├── FILE.txt
@@ -40,8 +40,8 @@
  20K   │ ├── DUPLICATES.txt
 4.0K   │ ├── METADATA.urls
   0B   │ └── DUPLICATES_OVERWRITES.txt
- 10M   ├── METADATA.json
-9.5M   ├── METADATA.yaml
+9.8M   ├── METADATA.json
+9.1M   ├── METADATA.yaml
 648K   ├─┬ archived
 548K   │ ├─┬ x64_Windows
 232K   │ │ ├── METADATA.json
